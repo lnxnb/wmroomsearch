@@ -1,0 +1,170 @@
+{
+  "id": "922c36cf-b604-4955-9805-c879f10b6190",
+  "version": "2.0",
+  "name": "wmroomsearch",
+  "url": "https://prod.banner.wm.edu",
+  "tests": [{
+    "id": "b3d6a6b8-5917-4fd1-8fcc-595f29baa953",
+    "name": "selectsome",
+    "commands": [{
+      "id": "364b5e3d-4f60-48cb-a58e-39efb653fb7e",
+      "comment": "",
+      "command": "open",
+      "target": "/StudentRegistration/ssb/classSearch/classSearch",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "606b674d-dfed-49ef-bd00-37602ec9e4fb",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "640x1057",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cb287466-b815-4177-af94-bda9d0e71612",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"],
+        ["xpath=//ul[contains(.,'Subject')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b1ba39a1-678b-439f-9261-9a071a39b965",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8d018b91-4558-46c0-8a43-4e1c39873e0d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ef8216a2-9d8c-4186-a7b2-3439f6375bea",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e300a3c1-fa40-48e1-b98f-4dbf681f6362",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "63b00e32-2db7-4798-9228-ce2f2c538e11",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3111932f-083f-4e69-948d-3ff038e8863f",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b09841f8-c56c-45fc-a668-a4b539348300",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "73e2d4a7-214e-4421-b028-b7b22bc70e7c",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "dc966a83-fd26-4b39-9c44-a23e96a9f951",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "19563414-3d64-45b8-a6b7-aef8ffa44c83",
+      "comment": "",
+      "command": "click",
+      "target": "css=#s2id_txt_subject > .select2-choices",
+      "targets": [
+        ["css=#s2id_txt_subject > .select2-choices", "css:finder"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul", "xpath:idRelative"],
+        ["xpath=//p/div/ul", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d47378a0-bf18-4e12-ae31-8c79efd28bed",
+      "comment": "",
+      "command": "click",
+      "target": "id=s2id_autogen1",
+      "targets": [
+        ["id=s2id_autogen1", "id"],
+        ["css=#s2id_autogen1", "css:finder"],
+        ["xpath=//input[@id='s2id_autogen1']", "xpath:attributes"],
+        ["xpath=//div[@id='s2id_txt_subject']/ul/li[12]/input", "xpath:idRelative"],
+        ["xpath=//li[12]/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d2048591-60d9-424f-ae55-0f9a4f64e112",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["b3d6a6b8-5917-4fd1-8fcc-595f29baa953"]
+  }],
+  "urls": ["https://prod.banner.wm.edu/"],
+  "plugins": []
+}
